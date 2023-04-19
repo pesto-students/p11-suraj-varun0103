@@ -1,6 +1,3 @@
-* {
-    margin-left: 20px
-}
 
 
 
@@ -8,17 +5,17 @@
     margin-right: 6%;
 }
 .email > label{
-    margin-right: 3.4%;
-}
-.dateToSend > label{
     margin-right: 4.2%;
 }
+.dateToSend > label{
+    margin-right: 4.7%;
+}
 .color > label{
-    margin-right: 3.2%;
+    margin-right: 4%;
 }
 .blinks > label{
-    margin-right: 1.7%;
+    margin-right: 2.9%;
 }
 .musicVolume > label{
-    margin-right: 2.7%;
+    margin-right: 3.7%;
 }
