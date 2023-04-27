@@ -1,0 +1,25 @@
+.info{
+    display: flex;
+    flex-direction: column;
+    width: 70%;
+}
+a{
+    color: blue;
+}
+a:hover {
+    color:black
+}
+.checked {
+    color: orange;
+}
+.img{
+    width: 40%;
+    height: 20%;
+}
+
+.addreviews{
+    gap:20px
+}
+footer{
+    margin-top: 10px;
+}
