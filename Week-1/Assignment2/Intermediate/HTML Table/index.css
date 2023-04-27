@@ -1,0 +1,12 @@
+table, th, td {
+    border: 1px solid black;
+  }
+table{
+    width: 30%;
+    height: 30%;
+}
+li{
+    font-weight: bold;
+   
+}
+

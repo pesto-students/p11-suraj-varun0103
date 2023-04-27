@@ -1,0 +1,21 @@
+
+
+
+.message > label{
+    margin-right: 6%;
+}
+.email > label{
+    margin-right: 4.2%;
+}
+.dateToSend > label{
+    margin-right: 4.7%;
+}
+.color > label{
+    margin-right: 4%;
+}
+.blinks > label{
+    margin-right: 2.9%;
+}
+.musicVolume > label{
+    margin-right: 3.7%;
+}
